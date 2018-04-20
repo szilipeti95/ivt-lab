@@ -6,8 +6,9 @@ The application is simplified and deliberately contains bugs.
    
 Travis   
   
-A Version
-   
+A Version  
+Version B
+ 
 ## Getting started
 
 - The project is implemented in Java 8.
