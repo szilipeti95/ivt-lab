@@ -5,7 +5,11 @@ This is a sample application for the [Integration and Verification Techniques](h
 The application is simplified and deliberately contains bugs.
    
 Travis   
-   
+
+  
+  
+  
+Version B 
 ## Getting started
 
 - The project is implemented in Java 8.
